@@ -1,0 +1,6 @@
+{
+  "name": "Тания Малышам",
+  "description": "Интерактивное приложение для изучения еврейского алфавита по священному тексту Тании.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
